@@ -34,8 +34,3 @@ In an era where digital technology has transformed our lives, traditional readin
 ![BookGenei (5)](https://github.com/user-attachments/assets/9e85e957-5174-470a-a89f-1164fe5180c3)
 
 
-## 👥  Contributors
-
-|[Shanacoder](https://github.com/shanacoder)|[Pooja Bhor](https://github.com/poojab2805)|[Aadi Harale ](https://github.com/coolss21)| [Pratik Date](https://github.com/Pratikdate) 
-|---|---|---|---|
-|<img src="https://avatars.githubusercontent.com/u/162150179?s=200&v=4" style="width: 200px;">|<img src="https://avatars.githubusercontent.com/u/163244933?v=4" style="width: 200px;">|<img src="https://avatars.githubusercontent.com/u/152193056?v=4" style="width: 200px;">|<img src="https://avatars.githubusercontent.com/u/91735895?v=4" style="width: 200px;">
